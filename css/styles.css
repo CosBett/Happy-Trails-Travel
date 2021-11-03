@@ -18,3 +18,14 @@ h2{
     color: #f7325e; 
     font-style: oblique
 }
+img {
+    float: right;
+}
+.column {
+    width: 308px;
+    float: left;
+  }
+  .column1{
+    width: 340px;
+    float: right;
+  }
