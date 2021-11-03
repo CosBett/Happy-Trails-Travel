@@ -1,4 +1,20 @@
-head{
-   background-color: deepskyblue; 
+html{
+    font-family: fantasy;
+    color: #7dc410;
+}  
+.page title{
+    text-align: center;
+}
 
+.tropical{
+    font-style: oblique;
+}
+h1{
+    color: #f7325e;
+    font-style: oblique
+}
+
+h2{
+    color: #f7325e; 
+    font-style: oblique
 }
